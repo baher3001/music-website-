@@ -1,0 +1,25 @@
+
+nav .nav-content ul
+{
+    list-style: none;
+    background-color: #000;
+   position: absolute; 
+  
+   top: 8vh;
+
+   
+   display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 140px;
+    display: none;
+
+    
+    
+}
+nav .nav-content ul li
+{
+    padding-left:15px ;
+}
